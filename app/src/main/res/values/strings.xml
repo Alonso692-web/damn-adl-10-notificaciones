@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADL_10</string>
+    <string name="channel_name">News</string>
+    <string name="channel_description">Canal de noticias de todo tipo</string>
+</resources>
